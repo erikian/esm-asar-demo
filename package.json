@@ -1,8 +1,7 @@
 {
   "name": "esm-asar-demo",
   "version": "1.0.0",
-  "type": "module",
-  "main": "main.mjs",
+  "main": "main.js",
   "license": "MIT",
   "scripts": {
     "package": "electron-forge package",
